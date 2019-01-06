@@ -19,6 +19,9 @@ h1 {
 
 .quote_container p {
   font-size: 1.6em;
+  border: solid black 1px;
+  border-radius: 3%;
+  padding: 2%;
 }
 
 .quote_container span {
