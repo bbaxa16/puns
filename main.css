@@ -1,3 +1,9 @@
+body {
+  font-family: cursive;
+}
+.navbar {
+  background-color: #F50089;
+}
 h1 {
   text-align: center;
 }
@@ -8,7 +14,11 @@ h1 {
   height: 100%;
   width: 400px;
 }
-
+#newPun {
+  border: 1.5px solid white;
+  background-color: #F50089;
+  color: white;
+}
 .button_container, .quote_container {
   margin: 10px;
 }
