@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bbaxa16/puns/issues"
   },
-  "homepage": "https://github.com/bbaxa16/puns#readme"
+  "homepage": "https://github.com/bbaxa16/puns#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
