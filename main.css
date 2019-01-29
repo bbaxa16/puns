@@ -45,3 +45,10 @@ footer {
   font-family:sans-serif;
   text-align: center;
 }
+footer a {
+  color: black;
+}
+footer a:hover {
+  color: #F50089;
+  text-decoration: none;
+}
