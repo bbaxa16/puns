@@ -1,9 +1,12 @@
 body {
   font-family: cursive;
+  background-color: lightgrey;
 }
 .navbar {
   background-color: #F50089;
+  color: white;
 }
+
 h1 {
   text-align: center;
 }
@@ -36,4 +39,9 @@ h1 {
 
 .quote_container span {
   margin: 0 5px;
+}
+
+footer {
+  font-family:sans-serif;
+  text-align: center;
 }
